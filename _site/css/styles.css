@@ -1,10 +1,12 @@
 body {
   font-family: sans-serif;
   margin: 0;
+  color: red;
 }
 
 h1 {
   font-size: 3rem;
+  color: orange;
 }
 
 p {
