@@ -9,24 +9,8 @@
 </head>
 <body>
     <header>
-        <nav>
-     <ul><li><a href="/">Home</a></li>
-<li><a href="/huskey/">Huskey</a></li></ul>
-</nav>
+        {% include 'nav.html' %}
     </header>
-    <h1>Huskeys!</h1>
-<p>This is my site about Huskeys</p>
-<p>Huskeys are cool. Here's a list of why:</p>
-<ul>
-<li>fluffy</li>
-<li>hyper</li>
-<li>shed</li>
-</ul>
-<div class="card">
-<h2>Huskeys rank</h2>
-<ol>
-<li>grey and white</li>
-</ol>
-</div>
+    {{ content }}
 </body>
 </html>
