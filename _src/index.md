@@ -3,11 +3,11 @@ layout: layout.html
 eleventyNavigation:
      key: Home
 ---
-# Huskeys!
+# Huskys!
 
 This is my site about Huskeys
 
-Huskeys are cool. Here's a list of why:
+Huskys are cool. Here's a list of why:
 
 - fluffy
 - hyper
@@ -15,8 +15,10 @@ Huskeys are cool. Here's a list of why:
 
 <div class="card">
 
-## Huskeys rank
+## Huskys rank
 
 1. grey and white
 
 </div>
+
+![A husky laying in snow](../images/husky.jpg)

@@ -1,9 +1,9 @@
 ---
 layout: layout.html
-title: Huskey
+title: Husky
 eleventyNavigation:
-     key: Huskey
+     key: Husky
 ---
 # {{ title }}
 
-Huskeys are great
+Huskys are great
