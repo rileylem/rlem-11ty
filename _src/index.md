@@ -2,6 +2,7 @@
 layout: layout.html
 eleventyNavigation:
      key: Home
+     order: -1
 ---
 # Huskys!
 
