@@ -8,8 +8,9 @@ body {
 }
 h1 {
     font-size: 3rem;
-    color: orange;
+    color: rgb(232, 152, 185);
     font-weight: thin;
+    text-align: center;
 }
 p {
     font-size: 1.3rem;
@@ -18,9 +19,22 @@ nav{
     ul{
         display: flex;
         list-style: none;
-        padding: 0;
+        padding: 2em;
+        font-size: 1em;
+        background-color: rgb(255, 223, 244);
+        margin: 0;
         li a {
             padding: 1em;
+            text-decoration: none;
+            color: rgb(179, 66, 125);
         }
     }
+}
+.minipigs1-2{
+    display: flex;
+    height: auto;
+    width: 100px;
+    margin: auto;
+    justify-content: center;
+    padding: 2em;
 }
