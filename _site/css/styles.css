@@ -33,13 +33,21 @@ nav ul li a {
   color: rgb(179, 66, 125);
 }
 
-.minipigs1-2 {
+.minipigs1 {
   display: flex;
-  height: auto;
-  width: 100px;
   margin: auto;
   justify-content: center;
-  padding: 2em;
+}
+
+.minipigs2 {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.minipigtext {
+  text-align: center;
+  padding: 2em 0em 0em 0em;
 }
 
 /*# sourceMappingURL=styles.css.map */

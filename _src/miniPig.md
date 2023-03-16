@@ -6,11 +6,20 @@ eleventyNavigation:
 ---
 # {{ title }}
 
-Mini pigs are great
+<div class="minipigtext">
 
-<div class="minipigs1-2">
+<p>These are mini pigs</p>
+
+</div>
+
+<div class="minipigs1">
 
 ![the side of a black and pink mini pig](../images/minipig_1.jpg)
-![A black and pink mini pig](../images/minipig_2.jpg)
+
+</div>
+
+<div class="minipigs2">
+
+![the side of a black and pink mini pig](../images/minipig_3.jpg)
 
 </div>
