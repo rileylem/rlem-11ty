@@ -20,6 +20,6 @@ eleventyNavigation:
 
 <div class="minipigs2">
 
-![the side of a black and pink mini pig](../images/minipig_3.jpg)
+![mini pig in water](../images/minipig_3.jpg)
 
 </div>

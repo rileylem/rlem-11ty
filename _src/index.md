@@ -6,20 +6,23 @@ eleventyNavigation:
 ---
 # Piggies
 
-This is my site about Huskeys
+<div class="piglisttitle">
 
-Huskys are cool. Here's a list of why:
-
-- fluffy
-- hyper
-- shed
-
-<div class="card">
-
-## Mini Pig rank
-
-1. grey and white
+Pigs are great becuase:
 
 </div>
 
-![A husky laying in snow](../images/husky.jpg)
+<div class="piglist">
+
+- platful
+- friendly
+- intelligent
+- can't sweat
+
+</div>
+
+<div class="pigimg">
+
+![mini pig in water](../images/minipig_3.jpg)
+
+</div>

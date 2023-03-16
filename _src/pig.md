@@ -14,12 +14,12 @@ eleventyNavigation:
 
 <div class="minipigs1">
 
-![the side of a black and pink mini pig](../images/pig_1.jpg)
+![pig laying down](../images/pig_1.jpg)
 
 </div>
 
 <div class="minipigs2">
 
-![the side of a black and pink mini pig](../images/pig_2.jpg)
+![pigs in a pen](../images/pig_2.jpg)
 
 </div>

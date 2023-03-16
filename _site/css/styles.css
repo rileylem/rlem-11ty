@@ -37,6 +37,8 @@ nav ul li a {
   display: flex;
   margin: auto;
   justify-content: center;
+  width: 500px;
+  height: auto;
 }
 
 .minipigs2 {
@@ -48,6 +50,33 @@ nav ul li a {
 .minipigtext {
   text-align: center;
   padding: 2em 0em 0em 0em;
+}
+
+.piglist {
+  background-color: rgb(232, 152, 185);
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-size: large;
+  padding: 0em 8em 0.5em 0em;
+  margin: 0em 20em 0em 20em;
+}
+
+.piglisttitle {
+  background-color: rgb(232, 152, 185);
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-weight: 600;
+  font-size: large;
+  margin: 0em 20em 0em 20em;
+  padding: 0.5em 0em 0em 0em;
+}
+
+.pigimg {
+  display: flex;
+  margin: auto;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=styles.css.map */
